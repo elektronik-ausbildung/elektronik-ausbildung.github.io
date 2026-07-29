@@ -1,0 +1,13 @@
+[project]
+name = "elektroniker-ausbildung"
+version = "0.1.0"
+description = "Dokumentation für die Elektroniker Ausbildung"
+requires-python = ">=3.10"
+
+[dependency-groups]
+docs = [
+    "sphinx>=8",
+    "pydata-sphinx-theme>=0.16",
+    "myst-parser>=4",
+    "sphinx-autobuild>=2024",
+]
