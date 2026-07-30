@@ -1,6 +1,12 @@
 # Theorie
 
-## Grundlagen C
+```{toctree}
+:caption: Theorie
+:maxdepth: 1
+
+C Grundlagen <c-grundlagen.md>
+Clean Code <clean-code.md>
+```
 
 ## Toolchain
 
