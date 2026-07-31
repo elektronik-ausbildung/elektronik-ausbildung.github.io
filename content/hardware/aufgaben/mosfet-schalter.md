@@ -1,6 +1,6 @@
 # Messübung Mosfet als Schalter
 
-Erstelle ein Word Dokument zu dieser Übung. Word Vorlagen findest du im Laborordner. Achte beim Messprotokoll darauf, es nach den Anforderungen des BBCs zu führen. Einzige Ausnahme, mach das Protokoll digital am Computer.
+Dokumentiere diese Aufgabe in einem Bericht. Achte beim Messprotokoll darauf, es nach den Anforderungen des üK Zentrums zu führen. 
 
 ## 1. Beantworte folgende Fragen
 
@@ -13,9 +13,7 @@ Erstelle ein Word Dokument zu dieser Übung. Word Vorlagen findest du im Laboror
 
 ## 2. Schaltung entwickeln
 
-Du erhältst einen RGB LED Streifen, welcher mit 12V betrieben wird. Über ein PWM Signal kann die Helligkeit von jeder Farbe eingestellt werden. Das PWM wird von einem Mikrocontroller generiert und hat 3.3V Pegel.
-
-Entwirf eine Schaltung, welche es ermöglicht vom Mikrocontroller aus die Farbe der LED ein zu stellen.
+Zeichne eine Schaltung welche einen 24V LED-Streifen mit 1A Stromverbrauch schalten und dimmen kann. Es soll ein Mosfet als High-Side Schalter verwendet werden. Wähle und dimensioniere die Bauteile.
 
 - Entwickle eine geeignete Schaltung
   - Zeichne ein mögliches Schema
@@ -24,17 +22,29 @@ Entwirf eine Schaltung, welche es ermöglicht vom Mikrocontroller aus die Farbe 
     - Berechne diese Werte
     - Welchen Typ wählst du? Wieso?
 
-## 3. Messprotokoll
+Besprich deine Schaltung und die gewählten Bauteile mit deinem Berufsbildner.
 
+## 3. Schaltung aufbauen
+
+- Schreibe ein Programm für das STM32 Devkit das ein PWM mit einer Frequenz von 2kHz erzeugt. Der Duty Cycle wird über ein Poti eingestellt.
 - Baue die Schaltung auf.
 - Teste die Schaltung
-- Mach ein Messprotokoll und bestimme die wichtigsten werte
-- Wie hoch darf die maximale Schaltfrequenz sein?
 
-Dokumentiere das Messprotokoll gemäss Richtlinien des BBC
+## 4. Messprotokoll
+
+- Teste die Schaltung
+- Miss die Slew-Rate vom 3.3V PWM-Signal und der 24V am LED-Streifen für positive und negative Flanken.
+- Miss das Signal am LED-Streifen bei folgenden Duty-Cycles:
+  - 0%
+  - 5%
+  - 30%
+  - 60%
+  - 95%
+  - 100%
 
 ## 4. Reflexion
 
+- Wie kann die Schaltung verbessert werden?
 - Was hast du gelernt?
 - Was hast du gut gemacht?
 - Was machst du beim nächsten Mal besser?
