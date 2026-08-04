@@ -1,7 +1,7 @@
 # Konzepte
 
 ```{toctree}
-:caption: Software
+:caption: Aufgaben
 :maxdepth: 2
 
 Git Aufgabe <git.md>

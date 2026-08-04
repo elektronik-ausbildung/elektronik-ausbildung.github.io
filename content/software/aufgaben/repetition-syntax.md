@@ -1,6 +1,13 @@
 # C Repetition Syntax
 
-1) Lies Kapitel 2.1 aus dem Buch [Modern C von Jens Gustedt](https://inria.hal.science/hal-02383654v2/file/modernC.pdf) sorgfältig durch. Nutze gegebenenfalls ein LLM zum übersetzen oder erklären.
+In dieser Übung wiederholst du die Grundlagen der C-Syntax. Du liest aus dem Buch «Modern C» und markierst die verschiedenen Elemente des C-Codes farblich.
+
+- Schwierigkeit: Leicht
+- Semester: 3-4
+- Material: Buch «Modern C» von Jens Gustedt, Computer mit PDF-Viewer, Stifte in verschiedenen Farben
+- Abgabe: Markierter Code
+
+1) Lies Kapitel 2.1 aus dem Buch [Modern C von Jens Gustedt](https://inria.hal.science/hal-02383654v2/file/modernC.pdf) sorgfältig durch. Nutze gegebenenfalls ein LLM zum Übersetzen oder Erklären.
 
 2) Nimm folgenden Code (Listing 1.1 aus dem Buch) und markiere in unterschiedlichen Farben.
 
@@ -32,7 +39,7 @@ void main () {
 }
 ```
 
-3) Nimm folgenden Code (Listing 2 aus dem Buch) und markiere in unterschiedlichen Farben.
+3) Nimm folgenden Code (Listing 1.1 aus dem Buch) und markiere in unterschiedlichen Farben.
 
 - Variablennamen
 - Bezeichnungen von Datentypen
@@ -65,7 +72,7 @@ void main () {
 
 4) Lies Kapitel 2 zu Ende (2.2, 2.3 und 2.4)
 
-5) Nimm folgenden Code (Listing 2 aus dem Buch) und markiere in unterschiedlichen Farben.
+5) Nimm folgenden Code (Listing 1.1 aus dem Buch) und markiere in unterschiedlichen Farben.
 
 - Alle Deklarationen
 - Alle Definitionen
@@ -94,3 +101,5 @@ void main () {
     return 0;
 }
 ```
+
+6) Beantworte schriftlich: Warum unterscheidet man zwischen Deklaration und Definition?

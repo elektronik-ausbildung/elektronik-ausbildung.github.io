@@ -5,14 +5,14 @@
 :maxdepth: 1
 
 7-Segment <7-segment.md>
-Akku laden <akku-laden.md>
 Diode <diode.md>
-LED-Ansteuerung <led-ansteuerung.md>
-Linearregler <linearregler.md>
-MOSFET-Schalter <mosfet-schalter.md>
-OpAmp <opamp.md>
-Photodiode <Photodiode.md>
-RC-Oszillator <rc-oszillator.md>
+Mosfet-Schalter <mosfet-schalter.md>
 Solarzelle <solarzelle.md>
 Temperatursensor <temperatursensor.md>
+RC-Oszillator <rc-oszillator.md>
+Akku laden <akku-laden.md>
+OpAmp <opamp.md>
+LED-Ansteuerung <led-ansteuerung.md>
+Linearregler <linearregler.md>
+Photodiode <photodiode.md>
 ```

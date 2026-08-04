@@ -1,7 +1,7 @@
 # Praktika
 
 ```{toctree}
-:caption: Software
+:caption: Praktika
 :maxdepth: 2
 
 SMD Bestücken <smd-bestuecken.md>

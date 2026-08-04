@@ -7,12 +7,10 @@
 Git Tutorial <git-tutorial.md>
 ```
 
-## Pflichtenheft
+Mögliche Inhalte:
 
-## Anleitung
-
-## Messbericht
-
-## Evaluieren
-
-## Schaltungen Simulieren
+- Pflichtenheft
+- Anleitung
+- Messbericht
+- Evaluieren
+- Schaltungen Simulieren

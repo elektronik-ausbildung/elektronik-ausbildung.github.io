@@ -1,8 +1,10 @@
-# Elektroniker Ausbildung
+# Elektronik Ausbildung
 
-Diese Dokumentation begleitet die Ausbildung zur **Elektronikerin / zum Elektroniker EFZ** nach der neuen Berufsreform [FutureMEM](https://skills.futuremem.swiss/de/).
+Diese Dokumentation begleitet die Ausbildung zur **Elektronikerin / zum Elektroniker EFZ** nach der neuen Berufsreform [FutureMEM](https://skills.futuremem.swiss/de/). Die Inhalte sind aus der Elektronikerausbildung der Moser-Baer AG in Sumiswald entstanden, ist nun aber Open Source und offen für Beiträge von allen. Das Projekt ist auf [Github unter elektronik-ausbildung](https://github.com/elektronik-ausbildung/elektronik-ausbildung.github.io) verfügbar. Bei Fragen oder Anmerkungen gerne auf Github ein Issue erfassen oder per Mail unter c.zaugg (at) mobatime.com melden. Auch wer eine STM32 Moba Devkit oder einen der elektrischen Würfel erhalten möchte, darf sich melden.
 
-Die Inhalte orientieren sich an den Handlungskompetenzbereichen des Bildungsplans:
+Zurzeit sind vor allem Praktika und Übungsaufgaben aufgeschaltet. Es ist mir zurzeit nicht klar in welcher Reihenfolge oder Gruppierung die Inhalte vermittelt werden, deshalb werden diese im Verlauf der Ausbildung hinzu gefügt.
+
+Die Inhalte orientieren sich an den Handlungskompetenzbereichen des neuen Bildungsplans (2026):
 
 - **Hardware** – Entwickeln und Fertigen von elektronischer Hardware
 - **Software** – Entwickeln von Software
@@ -11,6 +13,7 @@ Die Inhalte orientieren sich an den Handlungskompetenzbereichen des Bildungsplan
 
 Die Berufsschule GIBB Bern verwendet die Abkürzungen FEH (Hardware), FESW (Software), FEIK (Konzepte) und FTBV (Fertigung).
 
+→ [Digitale Auflistung der Lernziele](https://elektronik-ausbildung.github.io/lehrplan/)  
 → [Glossar mit allen Abkürzungen](glossar.md)
 
 ## Aufbau des Bildungsplans (FutureMEM)

@@ -6,6 +6,8 @@ extensions = [
     "myst_parser",
 ]
 
+myst_url_schemes = ("http", "https", "mailto", "ftp")
+
 templates_path = ["_templates"]
 exclude_patterns = ["_build", "Thumbs.db", ".DS_Store"]
 

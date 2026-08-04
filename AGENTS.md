@@ -25,7 +25,18 @@ Dieses Projekt erstellt eine **Sphinx-Webdokumentation** für die Elektroniker-A
 │   │   ├── theorie/
 │   │   │   └── index.md            # Grundlagen, Bauteile, Messen, Schaltungen, Digitaltechnik
 │   │   └── aufgaben/
-│   │       └── index.md            # ⬜ leer (Platzhalter)
+│   │       ├── index.md            # → 11 Hardware-Aufgaben (Toctree)
+│   │       ├── 7-segment.md        # ✅ 7-Segment-Würfelanzeige
+│   │       ├── akku-laden.md       # ✅ Akku laden
+│   │       ├── diode.md            # ✅ Messübung Diode
+│   │       ├── led-ansteuerung.md  # ✅ LED-Ansteuerung
+│   │       ├── linearregler.md     # ✅ Linearregler
+│   │       ├── mosfet-schalter.md  # ✅ Mosfet als Schalter
+│   │       ├── opamp.md            # ✅ OpAmp Stromquelle/Phototransistor
+│   │       ├── Photodiode.md       # ✅ Photodioden
+│   │       ├── rc-oszillator.md    # ✅ RC-Oszillator
+│   │       ├── solarzelle.md       # ✅ Solarzelle
+│   │       └── temperatursensor.md # ✅ Temperatursensor
 │   ├── konzepte/
 │   │   ├── index.md                # → Theorie, Aufgaben
 │   │   ├── theorie/
@@ -40,11 +51,14 @@ Dieses Projekt erstellt eine **Sphinx-Webdokumentation** für die Elektroniker-A
 │       ├── theorie/
 │       │   └── index.md            # C, Toolchain, CPU, Peripherie, Code-Struktur
 │       └── aufgaben/
-│           ├── index.md            # → toolchain, uart, assembler, i2c
+│           ├── index.md            # → toolchain, uart, assembler, i2c, repetition-syntax, stm32, netzwerk-praktikum
 │           ├── toolchain.md        # ✅ Toolchain recherchieren
 │           ├── uart.md             # ✅ UART-Signal mit LA analysieren
 │           ├── assembler.md        # ✅ PIC-Assembler Lauflicht
-│           └── i2c.md              # ✅ STM32 + SHT31 I2C-Sensor
+│           ├── i2c.md              # ✅ STM32 + SHT31 I2C-Sensor
+│           ├── repetition-syntax.md # ✅ C Repetition Syntax
+│           ├── stm32.md            # ✅ Einstieg STM32 DevKit
+│           └── netzwerk-praktikum.md # ✅ Netzwerk-Praktikum
 ├── sphinx/                         # 🏗️ Sphinx-Build-Umgebung
 │   ├── conf.py                     # Sphinx-Konfiguration
 │   ├── pyproject.toml              # Python-Projekt + UV-Dependencies
@@ -90,7 +104,8 @@ Die Sidebar wird über Toctrees in den `index.md`-Dateien aufgebaut. Jedes Haupt
 | `content/software/index.md` | theorie, aufgaben | 2 |
 | `content/fertigung/index.md` | theorie, praktika | 2 |
 | `content/konzepte/index.md` | theorie, aufgaben | 2 |
-| `content/software/aufgaben/index.md` | toolchain, uart, assembler, i2c | 1 |
+| `content/hardware/aufgaben/index.md` | 7-segment, akku-laden, diode, led-ansteuerung, linearregler, mosfet-schalter, opamp, Photodiode, rc-oszillator, solarzelle, temperatursensor | 1 |
+| `content/software/aufgaben/index.md` | toolchain, uart, assembler, i2c, repetition-syntax, stm32, netzwerk-praktikum | 1 |
 | `content/konzepte/aufgaben/index.md` | git, ltspice, eval | 2 |
 | `content/fertigung/praktika/index.md` | smd-bestuecken, tht-bestuecken, prueffeld, mechanik | 2 |
 
@@ -223,7 +238,14 @@ Die **Lernfelder (LFE)** ordnen die Leistungskriterien den Semestern zu. Beispie
 
 ### Aufgaben-Seiten (`content/<kapitel>/aufgaben/*.md`)
 
-- beginnen mit `# <Titel>` (wird als Aufgabenname angezeigt).
+- Aufbau:
+  - Beginnen mit `# <Titel>` (wird als Aufgabenname angezeigt).
+  - Es folgt eine Kurze Beschreibung der Aufgabe und Ausgangslage.
+  - Es folgt eine Liste mit folgenden Punkten:
+    - Schwierigkeit: Leicht / Mittel / Scher
+    - Semester: 1-8
+    - Material: Liste Kommasepariert
+    - Abgabe: Dokument (PDF oder Markdown), ev Quiz-Antworten, Messprotokoll, Schaltung, PCB, Code oder ähnliches
 - Aufgaben sind **selbstständig von den Lernenden zu bearbeiten** – der Agent beschreibt nur, was zu tun ist, nicht die Lösung.
 - **Typische Aufgabentypen** für Elektroniker/innen:
   - Recherche- und Berichtsaufgaben (z. B. Toolchain recherchieren)
@@ -232,6 +254,7 @@ Die **Lernfelder (LFE)** ordnen die Leistungskriterien den Semestern zu. Beispie
   - Simulationsaufgaben (LTSpice, z. B. OpAmp-Schaltungen simulieren)
   - Aufbau- und Inbetriebnahme-Aufgaben (z. B. STM32 + SHT31 I2C-Sensor)
   - Fehlersuche in bestehenden Schaltungen oder Code
+  - Emebedded C Mikrokontroller Code Aufgaben
 - Aufgaben sollten sich auf die **Leistungskriterien (LK)** des Bildungsplans beziehen – möglichst unter Angabe der HK-Nummer (z. B. `9999 c.01` für Mikrocontroller-Programmierung).
 - **Geräte/Materialien** präzise benennen (z. B. "PIC Board 7 aus dem ÜK", "STM32 Devkit", "USB-Serial Wandler").
 - Optional mit nummerierten Schritten (`1)`, `2)`, …) strukturieren.
@@ -249,7 +272,8 @@ Die **Lernfelder (LFE)** ordnen die Leistungskriterien den Semestern zu. Beispie
 | `fertigung/praktika/*.md` | Praktikumsbeschreibungen | ⬜ tbd |
 | `hardware/index.md` | Hardware Toctree | ✅ Fertig |
 | `hardware/theorie/index.md` | Grundlagen, Bauteile, Messen, Schaltungen, Digitaltechnik | ⬜ Nur Gliederung |
-| `hardware/aufgaben/index.md` | Hardware-Aufgaben | ⬜ Platzhalter |
+| `hardware/aufgaben/index.md` | Hardware-Aufgaben Toctree | ✅ 11 Aufgaben |
+| `hardware/aufgaben/*.md` | Hardware-Aufgabenbeschreibungen | ✅ Ausformuliert |
 | `konzepte/index.md` | Konzepte Toctree | ✅ Fertig |
 | `konzepte/theorie/index.md` | Pflichtenheft, Anleitung, Messbericht, Git, Simulation | ⬜ Nur Gliederung |
 | `konzepte/aufgaben/index.md` | Konzept-Aufgaben Toctree | ✅ Fertig |

@@ -34,14 +34,20 @@
 
 Viele Englische Begriffe
 
-<img src=images/repository.svg width=60% >
+```{image} images/repository.svg
+:width: 60%
+:alt: Repository
+```
 
 - Repository 
   - Ordner / Lager für Dateien deren Änderungen nachverfolgt werden sollen
   - Hat einen oder mehrere Branches
   - Ich kann jeden beliebigen Stand auswählen
 
-<img src=images/branch.svg width=60% >
+```{image} images/branch.svg
+:width: 60%
+:alt: Branch
+```
 
 - Branch
   - Ast / Abzweigung
@@ -53,7 +59,10 @@ Viele Englische Begriffe
   - Ein Commit fügt einem Branch eine Änderung hinzu
   - Jeder kann beliebig viele Commits hinzufügen
 
-<img src=images/merge.svg width=60% >
+```{image} images/merge.svg
+:width: 60%
+:alt: Merge
+```
 
 - Merge
   - Zusammenführen
@@ -120,7 +129,10 @@ Das arbeiten mit Sourcetree funktioniert sehr ähnlich wie mit git auf der Komma
 
 ## Arbeiten mit Gitlab (oder Github)
 
-<img src=images/remote.svg width=60%>
+```{image} images/remote.svg
+:width: 60%
+:alt: Remote
+```
 
 Gitlab und Github sind ursprünglich Git Server - ein Weg Git Repositories mit anderen zu teilen. Heute machen sie noch viel mehr. Damit ein Repository auf Gitlab hinzugefügt werden kann, muss in Gitlab ein leeres Projekt erstellt werden. Dessen Link muss dann unserem Git Repository mitgeteilt werden.
 
@@ -162,7 +174,10 @@ Gitlab und Github sind ursprünglich Git Server - ein Weg Git Repositories mit a
 Abmachungen in einem Team wie man mit Branches umgeht.
 Gute Erklärung von [Atlassian](https://www.atlassian.com/de/git/tutorials/comparing-workflows/gitflow-workflow)
 
-<img src="images/Release%20branches.svg" width="60%">
+```{image} images/release-branches.svg
+:width: 60%
+:alt: Release Branches
+```
 
 #### Master Branch (manchmal auch Main genannt)
 
