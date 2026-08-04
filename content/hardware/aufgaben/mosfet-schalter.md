@@ -31,8 +31,11 @@ Entwirf eine Schaltung, welche es ermöglicht, vom Mikrocontroller aus die Farbe
     - Vergleiche 2–3 Logic-Level-Mosfets anhand ihrer Datenblätter. Stelle die Werte in einer Tabelle gegenüber.
     - Welchen Typ wählst du? Begründe deine Wahl anhand der Daten.
 
-## 3. Messprotokoll
+Besprich deine Schaltung und die gewählten Bauteile mit deinem Berufsbildner.
 
+## 3. Schaltung aufbauen
+
+- Schreibe ein Programm für das STM32 Devkit das ein PWM mit einer Frequenz von 2kHz erzeugt. Der Duty Cycle wird über ein Poti eingestellt.
 - Baue die Schaltung auf.
 - Teste die Schaltung
 - Mach ein Messprotokoll und bestimme die wichtigsten Werte
@@ -42,6 +45,7 @@ Dokumentiere das Messprotokoll gemäss Richtlinien des Kurzentrums
 
 ## 4. Reflexion
 
+- Wie kann die Schaltung verbessert werden?
 - Was hast du gelernt?
 - Was hast du gut gemacht?
 - Was machst du beim nächsten Mal besser?
