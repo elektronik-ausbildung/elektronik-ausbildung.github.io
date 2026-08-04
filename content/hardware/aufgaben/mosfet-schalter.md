@@ -2,7 +2,7 @@
 
 Ein Mosfet kann als elektronischer Schalter eingesetzt werden. In dieser Übung lernst du seine Funktionsweise und die wichtigsten Kenndaten kennen und entwickelst eine Schaltung, mit der ein 12-V-RGB-LED-Streifen über ein 3.3-V-PWM-Signal eines Mikrocontrollers angesteuert wird.
 
-Erstelle ein Word Dokument zu dieser Übung. Word Vorlagen findest du im Laborordner. Achte beim Messprotokoll darauf, es nach den Anforderungen des BBC zu führen. Einzige Ausnahme: Mach das Protokoll digital am Computer.
+Erstelle ein Word Dokument zu dieser Übung. Achte beim Messprotokoll darauf, es nach den Anforderungen des üK Zentrums zu führen.
 
 - Schwierigkeit: Leicht
 - Semester: 2-4

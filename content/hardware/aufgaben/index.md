@@ -14,5 +14,6 @@ Akku laden <akku-laden.md>
 OpAmp <opamp.md>
 LED-Ansteuerung <led-ansteuerung.md>
 Linearregler <linearregler.md>
+High-Side-Schalter <high-side-switching.md>
 Photodiode <photodiode.md>
 ```

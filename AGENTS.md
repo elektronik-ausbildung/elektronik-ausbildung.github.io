@@ -25,10 +25,11 @@ Dieses Projekt erstellt eine **Sphinx-Webdokumentation** für die Elektroniker-A
 │   │   ├── theorie/
 │   │   │   └── index.md            # Grundlagen, Bauteile, Messen, Schaltungen, Digitaltechnik
 │   │   └── aufgaben/
-│   │       ├── index.md            # → 11 Hardware-Aufgaben (Toctree)
+│   │       ├── index.md            # → 12 Hardware-Aufgaben (Toctree)
 │   │       ├── 7-segment.md        # ✅ 7-Segment-Würfelanzeige
 │   │       ├── akku-laden.md       # ✅ Akku laden
 │   │       ├── diode.md            # ✅ Messübung Diode
+│   │       ├── high-side-switching.md # ✅ Mosfet als High-Side-Schalter
 │   │       ├── led-ansteuerung.md  # ✅ LED-Ansteuerung
 │   │       ├── linearregler.md     # ✅ Linearregler
 │   │       ├── mosfet-schalter.md  # ✅ Mosfet als Schalter
@@ -104,7 +105,7 @@ Die Sidebar wird über Toctrees in den `index.md`-Dateien aufgebaut. Jedes Haupt
 | `content/software/index.md` | theorie, aufgaben | 2 |
 | `content/fertigung/index.md` | theorie, praktika | 2 |
 | `content/konzepte/index.md` | theorie, aufgaben | 2 |
-| `content/hardware/aufgaben/index.md` | 7-segment, akku-laden, diode, led-ansteuerung, linearregler, mosfet-schalter, opamp, Photodiode, rc-oszillator, solarzelle, temperatursensor | 1 |
+| `content/hardware/aufgaben/index.md` | 7-segment, akku-laden, diode, high-side-switching, led-ansteuerung, linearregler, mosfet-schalter, opamp, Photodiode, rc-oszillator, solarzelle, temperatursensor | 1 |
 | `content/software/aufgaben/index.md` | toolchain, uart, assembler, i2c, repetition-syntax, stm32, netzwerk-praktikum | 1 |
 | `content/konzepte/aufgaben/index.md` | git, ltspice, eval | 2 |
 | `content/fertigung/praktika/index.md` | smd-bestuecken, tht-bestuecken, prueffeld, mechanik | 2 |
@@ -272,7 +273,7 @@ Die **Lernfelder (LFE)** ordnen die Leistungskriterien den Semestern zu. Beispie
 | `fertigung/praktika/*.md` | Praktikumsbeschreibungen | ⬜ tbd |
 | `hardware/index.md` | Hardware Toctree | ✅ Fertig |
 | `hardware/theorie/index.md` | Grundlagen, Bauteile, Messen, Schaltungen, Digitaltechnik | ⬜ Nur Gliederung |
-| `hardware/aufgaben/index.md` | Hardware-Aufgaben Toctree | ✅ 11 Aufgaben |
+| `hardware/aufgaben/index.md` | Hardware-Aufgaben Toctree | ✅ 12 Aufgaben |
 | `hardware/aufgaben/*.md` | Hardware-Aufgabenbeschreibungen | ✅ Ausformuliert |
 | `konzepte/index.md` | Konzepte Toctree | ✅ Fertig |
 | `konzepte/theorie/index.md` | Pflichtenheft, Anleitung, Messbericht, Git, Simulation | ⬜ Nur Gliederung |
