@@ -103,3 +103,22 @@ void main () {
 ```
 
 6) Beantworte schriftlich: Warum unterscheidet man zwischen Deklaration und Definition?
+
+## Referenzen zum Lehrplan
+
+Die folgenden Leistungskriterien (LK) und Lernziele (LZ) aus dem Bildungsplan FutureMEM stehen in Bezug zu dieser Aufgabe.
+
+- **HKB 9999 c** – Entwickeln von Software
+  - **HK 9999 c.01** – Mikrocontroller-Programme entwickeln
+    - **LK ET c1 10** – Sie führen arithmetische und boolesche Operationen in verschiedenen Zahlensystemen durch. (BFS · Semester 1)
+      - **LZ_11180** – Sie setzen logische oder bitweise Operationen anwendungsgerecht ein. (Semester 1)
+      - **LZ_11181** – Sie rechnen in verschiedenen Zahlensystemen. (Semester 1)
+      - **LZ_11183** – Sie verstehen die Darstellung von Zahlen in einem Mikrocontroller. (Semester 1)
+    - **LK ET c1 11** – Sie wenden die Grundkonzepte einer Programmiersprache an. (BFS · Semester 1, 3, 4, 7)
+      - **LZ_4276** – Sie schreiben einfache Programme (Standardanweisungen). (Semester 3, 1, 4)
+      - **LZ_9579** – Sie nutzen die Grundstruktur einer imperativen Programmiersprache. (Semester 3, 1)
+      - **LZ_11203** – Sie schreiben verständliche und nachvollziehbare Kommentare im Code. (Semester 1)
+      - **LZ_11204** – Sie nutzen die unterstützenden Funktionen einer Entwicklungsumgebung. (Semester 1)
+    - **LK ET c1 17** – Sie erklären die Funktion von vorgegebenen Code Sequenzen. (BFS · Semester 1, 4)
+      - **LZ_11205** – Sie stellen gegebenen Code strukturiert grafisch dar. (Semester 1)
+      - **LZ_11206** – Sie erklären die Funktion von vorgegebenem Code und werten ihn aus. (Semester 1)

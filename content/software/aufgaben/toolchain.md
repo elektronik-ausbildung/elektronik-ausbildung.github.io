@@ -17,3 +17,26 @@ Für jedes Programm der Toolchain beantworte folgende Fragen:
 - Was ist das Ergebnis des Programms?
 - Was sind die wichtigsten Einstellungen, die man vornehmen muss?
 - Gib 2-3 Beispiele von Programmen/Software für jeden Schritt der Toolchain. Welches Programm wird in der Cube IDE verwendet?
+
+## Referenzen zum Lehrplan
+
+Die folgenden Leistungskriterien (LK) und Lernziele (LZ) aus dem Bildungsplan FutureMEM stehen in Bezug zu dieser Aufgabe.
+
+- **HKB 9999 a** – Entwickeln von Ideen und Konzepten
+  - **HK 9999 a.03** – die Machbarkeit von Ideen oder Aufträgen für elektronische Hard- oder Softwarelösungen abklären
+    - **LK MEM 07 14** – Sie setzen ausgewählte Standardapplikationen und industrieübliche Software effektiv und effizient ein. (üK · Semester 4)
+      - **LZ_11240** – Sie benennen den Funktionsumfang und Nutzen einer Entwicklungsumgebung. (Semester 4)
+      - **LZ_11241** – Sie entwickeln in einer Entwicklungsumgebung Software für einen Mikrocontroller. (Semester 4)
+      - **LZ_11242** – Sie nutzen Bibliotheken. (Semester 4)
+- **HKB 9999 c** – Entwickeln von Software
+  - **HK 9999 c.01** – Mikrocontroller-Programme entwickeln
+    - **LK ET c1 11** – Sie wenden die Grundkonzepte einer Programmiersprache an. (BFS · Semester 1, 3, 4, 7)
+      - **LZ_11204** – Sie nutzen die unterstützenden Funktionen einer Entwicklungsumgebung. (Semester 1)
+    - **LK ET c1 18** – Sie erläutern die grundsätzliche Funktion einer Toolchain. (BFS · Semester 3)
+      - **LZ_11197** – Sie erklären die einzelnen Schritte und Tools zur Umsetzung von Code in einer Hochsprache bis zur Ausführung auf dem Mikrocontroller. (Semester 3)
+      - **LZ_11198** – Sie beschreiben die Aufgaben und möglichen Parameter der einzelnen Tools. (Semester 3)
+    - **LK ET c1 19** – Sie realisieren in den Grundstrukturen eines Mikrocontrollers einfachste Programme. (üK · Semester 4)
+      - **LZ_11204** – Sie nutzen die unterstützenden Funktionen einer Entwicklungsumgebung. (Semester 4)
+    - **LK ET c1 25** – Sie finden und beheben mit Hilfe der Entwicklungsumgebung Fehler in der Software. (üK · Semester 4)
+      - **LZ_9782** – Sie setzen den Compiler zur Fehlersuche ein. (Semester 4)
+      - **LZ_11249** – Sie erklären die Fehlermeldungen eines Compilers und kennen die Ursachen der Fehlermeldungen. (Semester 4)

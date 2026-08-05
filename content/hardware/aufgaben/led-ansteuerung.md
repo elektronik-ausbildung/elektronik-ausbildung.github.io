@@ -37,3 +37,28 @@ Achtung: Die LED darf nicht heiss werden. Zwischen den Versuchen mindestens eine
 2. Miss mit dem Oszilloskop die Vorwärtsspannung (U_F) der LED direkt nach dem Einschalten und zeige auf, wie sich die Spannung verändert.
 3. Beobachte: Was passiert mit der Vorwärtsspannung, während die LED wärmer wird? Erkläre, warum dieser Effekt in der Praxis einer LED-Schaltung wichtig ist.
 4. Bestimme den Temperaturkoeffizienten numerisch: Miss U_F bei bekannter Temperatur (z. B. Raumtemperatur) und nach dem Erwärmen der LED. Berechne den Temperaturkoeffizienten in mV/K und vergleiche ihn mit dem Wert aus dem LED-Datenblatt.
+
+## Referenzen zum Lehrplan
+
+Die folgenden Leistungskriterien (LK) und Lernziele (LZ) aus dem Bildungsplan FutureMEM stehen in Bezug zu dieser Aufgabe.
+
+- **HKB 9999 b** – Entwickeln und Fertigen von elektronischer Hardware
+  - **HK 9999 b.01** – elektronische Schaltungen dimensionieren und das Schema entwickeln
+    - **LK ET b1 06** – Sie dimensionieren elektronische Komponenten. (BFS · Semester 1, 2, 3, 4, 5, 8)
+      - **LZ_5628** – Sie erklären die grundlegende Funktion und Anwendungen von Z-Dioden, LEDs und Schalttransistoren. (Semester 2)
+      - **LZ_2011** – Sie beschreiben den Transistor als Schalter in Schaltungen. (Semester 2)
+      - **LZ_4108** – Sie interpretieren Kennlinien, Grenz- und Kennwerte von Fotodioden, Fototransistoren, Leuchtdioden und Optokopplern. (Semester 2)
+    - **LK ET b1 07** – Sie erarbeiten klassische Grundschaltungen. (BFS · Semester 1, 2, 3, 4, 5, 8)
+      - **LZ_1899** – Sie unterscheiden und berechnen die Schaltungen von Spannungsteilern und Vorwiderständen. (Semester 1)
+      - **LZ_9029** – Sie dimensionieren Grundschaltungen mit Dioden, LEDs, Optokopplern, Feldeffekttransistoren und Bipolartransistoren. (Semester 2)
+    - **LK ET b1 13** – Sie wenden klassische Grundschaltungen an. (üK · Semester 2, 3)
+      - **LZ_4148** – Sie dimensionieren Grundschaltungen mit Feldeffekttransistor, Bipolartransistor, linearem Spannungsregler und Operationsverstärker. (Semester 3)
+  - **HK 9999 b.04** – Schaltungen in Betrieb nehmen, ausmessen und Fehler beheben
+    - **LK ET b4 09** – Sie schätzen den Einfluss von Messgeräten auf Beispielschaltungen ab. (BFS · Semester 1)
+      - **LZ_124** – Sie wenden Messgeräte zur Messung von Spannung, Strom und Widerstand an. (Semester 1)
+      - **LZ_1948** – Sie führen Strom- und Spannungsmessungen in Stromkreisen durch. (Semester 1)
+      - **LZ_1951** – Sie erläutern die Eigenschaften von digitalen und analogen Messgeräten. (Semester 1)
+- **HKB 9999 c** – Entwickeln von Software
+  - **HK 9999 c.01** – Mikrocontroller-Programme entwickeln
+    - **LK ET c1 16** – Sie setzen verschiedene digitale oder analoge Schnittstellen an beispielhaften Aufgaben ein. (BFS · Semester 6)
+      - **LZ_11193** – Sie realisieren Funktionen mit Hilfe von Timern. (Semester 6)

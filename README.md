@@ -13,7 +13,7 @@ Alle weiteren Pakete werden automatisch installiert.
 
 Bevorzugt wird die Seite mit VSCode bearbeitet.
 
-In VSCode kann mit der Tastenkombination CTRL+SHIFT+B die Webseite erstellt und geöffnet werden.
+In VSCode kann mit der Tastenkombination CTRL+SHIFT+B die Webseite erstellt und geöffnet werden. Funktioniert und getestet unter Windows 11 und WSL Ubuntu.
 
 ### Webseite generieren
 

@@ -27,3 +27,24 @@ Erstelle ein Dokument zu diesem Auftrag. Schreibe die Lösungen zum Quiz und die
 Baue ein einfaches Ladegerät für AA-NiMH-Akkus (z. B. für [Ikea Ladda](https://www.ikea.com/ch/de/p/ladda-akku-aufladbar-hr06-aa-1-2-v-50504692/)). Es soll per USB mit Strom versorgt werden und 2 Akkus laden können.
 
 Baue die Schaltung auf einem Steckbrett auf. Achte darauf, dass es nicht zu komplex wird, du solltest für die Übung höchstens ein paar Stunden brauchen – wähle die Schaltung dementsprechend (Ladegeräte können auch sehr komplex sein).
+
+## Referenzen zum Lehrplan
+
+Die folgenden Leistungskriterien (LK) und Lernziele (LZ) aus dem Bildungsplan FutureMEM stehen in Bezug zu dieser Aufgabe.
+
+- **HKB 9999 a** – Entwickeln von Ideen und Konzepten
+  - **HK 9999 a.02** – Ideen, Konzepte und Lösungen für elektronische Hard- oder Softwareproblemstellungen entwickeln
+    - **LK MEM 08 02** – Sie planen ihre Arbeit unter Einbezug naturwissenschaftlicher Aspekte und führen sie aus. (BFS · Semester 1, 2, 3, 4, 8)
+      - **LZ_9497** – Sie unterscheiden die Begriffe Arbeit, Energie und Leistung. (Semester 3)
+      - **LZ_9498** – Sie zählen die verschiedenen Energieformen auf. (Semester 3)
+      - **LZ_9499** – Sie nennen die Einheiten für die Leistung und für die Energieformen. (Semester 3)
+      - **LZ_9502** – Sie erklären den Begriff Wirkungsgrad anhand eines praktischen Beispiels. (Semester 3)
+    - **LK MEM 08 03** – Sie wenden bei der Bearbeitung technischer Problemstellungen mathematische Konzepte an. (BFS · Semester 1, 2, 3, 4, 8)
+      - **LZ_11359** – Sie berechnen die elektrische Leistung verschiedener Verbraucher. (Semester 1)
+      - **LZ_11360** – Sie berechnen die Energiekosten verschiedener Verbraucher. (Semester 1)
+- **HKB 9999 b** – Entwickeln und Fertigen von elektronischer Hardware
+  - **HK 9999 b.01** – elektronische Schaltungen dimensionieren und das Schema entwickeln
+    - **LK ET b1 07** – Sie erarbeiten klassische Grundschaltungen. (BFS · Semester 1, 2, 3, 4, 5, 8)
+      - **LZ_9029** – Sie dimensionieren Grundschaltungen mit Dioden, LEDs, Optokopplern, Feldeffekttransistoren und Bipolartransistoren. (Semester 2)
+      - **LZ_9032** – Sie erklären die Funktion von unterschiedlichen Stabilisierungsschaltungen für Spannung und Strom. (Semester 8)
+      - **LZ_9033** – Sie unterscheiden verschiedene Arten von Spannungswandlerschaltungen. (Semester 8)

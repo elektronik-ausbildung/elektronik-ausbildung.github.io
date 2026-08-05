@@ -27,3 +27,28 @@ Studiere das Datenblatt. Wie funktioniert der Phototransistor? Welches sind die 
 1. Zeichne das Schema der Schaltung
 2. Berechne und dimensioniere die Bauteile
 3. Wähle Bauteile aus dem Schubladenstock und baue die Schaltung auf einem Steckbrett auf.
+
+## Referenzen zum Lehrplan
+
+Die folgenden Leistungskriterien (LK) und Lernziele (LZ) aus dem Bildungsplan FutureMEM stehen in Bezug zu dieser Aufgabe.
+
+- **HKB 9999 b** – Entwickeln und Fertigen von elektronischer Hardware
+  - **HK 9999 b.01** – elektronische Schaltungen dimensionieren und das Schema entwickeln
+    - **LK ET b1 06** – Sie dimensionieren elektronische Komponenten. (BFS · Semester 1, 2, 3, 4, 5, 8)
+      - **LZ_4121** – Sie dimensionieren invertierende und nichtinvertierende Operationsverstärkerschaltungen und berechnen Eingangs- und Ausgangswiderstände. (Semester 4)
+      - **LZ_4108** – Sie interpretieren Kennlinien, Grenz- und Kennwerte von Fotodioden, Fototransistoren, Leuchtdioden und Optokopplern. (Semester 2)
+    - **LK ET b1 07** – Sie erarbeiten klassische Grundschaltungen. (BFS · Semester 1, 2, 3, 4, 5, 8)
+      - **LZ_2234** – Sie erklären die entsprechenden Grundschaltungen mit Operationsverstärkern. (Semester 4)
+      - **LZ_4117** – Sie zeichnen invertierende und nichtinvertierende Operationsverstärkerschaltungen (inklusive Impedanzwandler) auf und zu benennen. (Semester 4)
+      - **LZ_4118** – Sie erklären das Prinzip der Mit- und Gegenkopplung und beschreiben den Einfluss der Gegenkopplung auf die Verstärkung und Bandbreite. (Semester 4)
+    - **LK ET b1 12** – Sie entnehmen aus technischen Datenblättern die relevanten Eigenschaften von Bauteilen. (üK · Semester 2, 3)
+      - **LZ_9062** – Sie suchen aufgrund der Bauteilbezeichnung das vom Hersteller herausgegebene Datenblatt und können damit die grundsätzliche Funktion des Bauteils herleiten. (Semester 3, 2)
+    - **LK ET b1 13** – Sie wenden klassische Grundschaltungen an. (üK · Semester 2, 3)
+      - **LZ_4148** – Sie dimensionieren Grundschaltungen mit Feldeffekttransistor, Bipolartransistor, linearem Spannungsregler und Operationsverstärker. (Semester 3)
+  - **HK 9999 b.04** – Schaltungen in Betrieb nehmen, ausmessen und Fehler beheben
+    - **LK ET b4 09** – Sie schätzen den Einfluss von Messgeräten auf Beispielschaltungen ab. (BFS · Semester 1)
+      - **LZ_124** – Sie wenden Messgeräte zur Messung von Spannung, Strom und Widerstand an. (Semester 1)
+      - **LZ_1948** – Sie führen Strom- und Spannungsmessungen in Stromkreisen durch. (Semester 1)
+    - **LK ET b4 04 (üK)** – Sie messen Schaltungen und achten darauf, deren ursprünglichen Funktion nicht zu beeinflussen. (üK · Semester 2)
+      - **LZ_11220** – Sie führen mit geeigneten Messmittel die Messung durch. (Semester 2)
+      - **LZ_11224** – Sie benennen Einflussfaktoren von Messmitteln auf das zu messende Bauteil. (Semester 2)

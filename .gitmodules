@@ -1,0 +1,3 @@
+[submodule "lehrplan"]
+	path = lehrplan
+	url = https://github.com/elektronik-ausbildung/lehrplan

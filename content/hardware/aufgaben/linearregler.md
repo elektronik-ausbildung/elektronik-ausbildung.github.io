@@ -37,3 +37,27 @@ Baue die Schaltung auf und überprüfe, ob sie funktioniert. Miss folgende Kennw
 - Querstrom Iq
 - Genauigkeit der Ausgangsspannung
 - Line Regulation
+
+## Referenzen zum Lehrplan
+
+Die folgenden Leistungskriterien (LK) und Lernziele (LZ) aus dem Bildungsplan FutureMEM stehen in Bezug zu dieser Aufgabe.
+
+- **HKB 9999 b** – Entwickeln und Fertigen von elektronischer Hardware
+  - **HK 9999 b.01** – elektronische Schaltungen dimensionieren und das Schema entwickeln
+    - **LK ET b1 07** – Sie erarbeiten klassische Grundschaltungen. (BFS · Semester 1, 2, 3, 4, 5, 8)
+      - **LZ_9029** – Sie dimensionieren Grundschaltungen mit Dioden, LEDs, Optokopplern, Feldeffekttransistoren und Bipolartransistoren. (Semester 2)
+      - **LZ_9032** – Sie erklären die Funktion von unterschiedlichen Stabilisierungsschaltungen für Spannung und Strom. (Semester 8)
+      - **LZ_9033** – Sie unterscheiden verschiedene Arten von Spannungswandlerschaltungen. (Semester 8)
+    - **LK ET b1 12** – Sie entnehmen aus technischen Datenblättern die relevanten Eigenschaften von Bauteilen. (üK · Semester 2, 3)
+      - **LZ_9062** – Sie suchen aufgrund der Bauteilbezeichnung das vom Hersteller herausgegebene Datenblatt und können damit die grundsätzliche Funktion des Bauteils herleiten. (Semester 3, 2)
+    - **LK ET b1 13** – Sie wenden klassische Grundschaltungen an. (üK · Semester 2, 3)
+      - **LZ_4148** – Sie dimensionieren Grundschaltungen mit Feldeffekttransistor, Bipolartransistor, linearem Spannungsregler und Operationsverstärker. (Semester 3)
+  - **HK 9999 b.04** – Schaltungen in Betrieb nehmen, ausmessen und Fehler beheben
+    - **LK ET b4 09** – Sie schätzen den Einfluss von Messgeräten auf Beispielschaltungen ab. (BFS · Semester 1)
+      - **LZ_124** – Sie wenden Messgeräte zur Messung von Spannung, Strom und Widerstand an. (Semester 1)
+      - **LZ_1948** – Sie führen Strom- und Spannungsmessungen in Stromkreisen durch. (Semester 1)
+      - **LZ_1951** – Sie erläutern die Eigenschaften von digitalen und analogen Messgeräten. (Semester 1)
+      - **LZ_1993** – Sie erklären den Einfluss des Innenwiderstandes. (Semester 1)
+    - **LK ET b4 11** – Sie ermitteln die geeigneten Messgeräte und Hilfsmittel für die durchzuführenden Messungen. (üK · Semester 2, 3)
+      - **LZ_10095** – Sie benennen die Fähigkeiten der einzelnen Messmittel und deren Einsatzgrenzen. (Semester 3, 2)
+      - **LZ_10096** – Sie kennen die Grundregeln bei der Auswahl eines Messmittels. (Semester 3, 2)

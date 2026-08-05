@@ -170,3 +170,36 @@ Welche Netzwerkprotokolle werden von Uhren und Zeitservern bei Moser Baer verwen
 - Wozu verwendet der DTS SSH?
 
 > Aufgabe: Verbinde dich per SSH mit einem DTS und stelle die Uhrenlinie auf 12 h
+
+## Referenzen zum Lehrplan
+
+Die folgenden Leistungskriterien (LK) und Lernziele (LZ) aus dem Bildungsplan FutureMEM stehen in Bezug zu dieser Aufgabe.
+
+- **HKB 9999 a** – Entwickeln von Ideen und Konzepten
+  - **HK 9999 a.03** – die Machbarkeit von Ideen oder Aufträgen für elektronische Hard- oder Softwarelösungen abklären
+    - **LK MEM 07 07** – Sie visualisieren Daten. (BFS · Semester 2, 3, 4)
+      - **LZ_1131** – Sie erstellen eine Wertetabelle und zeichnen das entsprechende Diagramm auf. (Semester 2, 3, 4)
+      - **LZ_1133** – Sie fügen Tabellen und Diagramme ein und bearbeiten diese. (Semester 2, 3, 4)
+    - **LK MEM 07 08** – Sie vernetzen Komponenten zu Systemen, um Arbeitsprozesse zu unterstützen und kontinuierlich zu verbessern. (BFS · Semester 2)
+      - **LZ_9205** – Sie erstellen oder interpretieren Netzwerkpläne und führen Änderungen korrekt nach. (Semester 2)
+      - **LZ_9206** – Sie beurteilen grundlegende Sicherheitskriterien zu sicheren Passworten, 2Faktor Authentifizierung, Antivirensoftware und Firewalls (Basisschutz) und zählen typische Cyber Gefahren auf. (Semester 2)
+      - **LZ_9207** – Sie beurteilen die Netzwerkzuverlässigkeit und erkennen Engpässe hinsichtlich des Datendurchsatzes bzw. können Optimierungen diesbezüglich vornehmen. (Semester 2)
+    - **LK MEM 07 09** – Sie setzen einzelne Komponenten entsprechend ihrer Funktion ein, und konstruieren digitale Netzwerke. (BFS · Semester 2)
+      - **LZ_9202** – Sie erläutern die Funktionen eines Routers oder Switches und verstehen den Aufbau der IP-Adressen, die Funktionsweise der Ports sowie der Subnetz Adressierung und zählen die Vor- und Nachteile von fixer oder dynamischer IP-Adresse Vergabe auf. (Semester 2)
+      - **LZ_9203** – Sie konfigurieren einen Router mit fixer oder dynamischer IP-Adressvergabe. (Semester 2)
+      - **LZ_9204** – Sie verbinden Netzwerkkomponenten und testen deren Funktion. (Semester 2)
+    - **LK MEM 07 10** – Sie erläutern Vor- und Nachteile von vernetzten Komponenten. (BFS · Semester 2)
+      - **LZ_1362** – Sie erläutern den Aufbau von Informations- und Kommunikationsnetzen. (Semester 2)
+      - **LZ_9201** – Sie bezeichnen die Netzwerkkomponenten und nennen die Funktionen der notwendigen Hardware eines Netzwerkes (Router, Switch, Netzwerkkabel, Geschwindigkeiten) und zählen die Vor- und Nachteile von kabelgebundenen oder kabellosen Netzwerken auf. (Semester 2)
+    - **LK MEM 07 11** – Sie schützen sich und ihr Umfeld gegen Cyberbedrohungen. (BFS · Semester 1)
+      - **LZ_9181** – Sie wenden die vorgegeben Software gegen Cyberangriffe an. (Semester 1)
+    - **LK MEM 07 12** – Sie schätzen mögliche Auswirkungen von Cyberbedrohungen und Sicherheitslücken ab. (BFS · Semester 1)
+      - **LZ_9178** – Sie zählen die aktuellen Cyberbedrohungen und Gefahren auf. (Semester 1)
+      - **LZ_9179** – Sie können die Bedrohlichkeit von Cyberangriffen und mögliche Sicherheitslücken abschätzen. (Semester 1)
+      - **LZ_9180** – Sie nennen die Richtlinien und das Verhalten gegen Cyberangriffe. (Semester 1)
+    - **LK MEM 07 13** – Sie identifizieren aktuelle Cyberbedrohungen und Gefahren. (BFS · Semester 1)
+      - **LZ_9182** – Sie erkennen mögliche aktuelle Cyperbedrohungen. (Semester 1)
+- **HKB 9999 c** – Entwickeln von Software
+  - **HK 9999 c.03** – intelligente Komponenten und Dienste in einem Netz oder einer Cloud einbinden
+    - **LK ET c3 01** – Sie integrieren Geräte, Sensoren oder Aktoren in einem Netzwerk oder Bussystem und konfigurieren diese, um die Kommunikation zu ermöglichen. (BE · Semester 5, 6, 7, 8)
+    - **LK ET c3 03** – Sie dokumentieren die Netz- oder Bustopologie zusammen mit den gemachten Konfigurationen in der Entwicklungsdokumentation. (BE · Semester 5, 6)
