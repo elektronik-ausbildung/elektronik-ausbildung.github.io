@@ -4,6 +4,7 @@
 :caption: Aufgaben
 :maxdepth: 1
 
+NAND-Game <nand-game.md>
 Assembler <assembler.md>
 STM32 <stm32.md>
 I2C <i2c.md>
