@@ -13,7 +13,9 @@ Mache mindestens die ersten drei Levels ("Einführung", "Eine Stufe höher" und 
 - Material: Computer mit Browser, Zugang zu learngitbranching.js.org
 - Abgabe: Abschluss der Levels (Screenshots) und pro Level eine kurze Reflexion (1–2 Sätze): Was war neu für dich? Was war verwirrend?
 
-## Referenzen zum Lehrplan
+```{admonition} Referenzen zum Lehrplan
+:class: references
+:collapsible: closed
 
 Die folgenden Leistungskriterien (LK) und Lernziele (LZ) aus dem Bildungsplan FutureMEM stehen in Bezug zu dieser Aufgabe.
 
@@ -26,3 +28,4 @@ Die folgenden Leistungskriterien (LK) und Lernziele (LZ) aus dem Bildungsplan Fu
     - **LK ET c1 50** – Sie unterscheiden verschiedene Arten von Versionsverwaltungen. (BFS · Semester 3)
       - **LZ_9582** – Sie verwenden eine kollaborative Versionverwaltungssoftware wie GitHub. (Semester 3)
       - **LZ_9583** – Sie führen Versionshistorien, insbesondere bei kollaborativer Entwicklungsarbeit. (Semester 3)
+```

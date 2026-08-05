@@ -38,7 +38,9 @@ Baue die Schaltung auf und überprüfe, ob sie funktioniert. Miss folgende Kennw
 - Genauigkeit der Ausgangsspannung
 - Line Regulation
 
-## Referenzen zum Lehrplan
+```{admonition} Referenzen zum Lehrplan
+:class: references
+:collapsible: closed
 
 Die folgenden Leistungskriterien (LK) und Lernziele (LZ) aus dem Bildungsplan FutureMEM stehen in Bezug zu dieser Aufgabe.
 
@@ -61,3 +63,4 @@ Die folgenden Leistungskriterien (LK) und Lernziele (LZ) aus dem Bildungsplan Fu
     - **LK ET b4 11** – Sie ermitteln die geeigneten Messgeräte und Hilfsmittel für die durchzuführenden Messungen. (üK · Semester 2, 3)
       - **LZ_10095** – Sie benennen die Fähigkeiten der einzelnen Messmittel und deren Einsatzgrenzen. (Semester 3, 2)
       - **LZ_10096** – Sie kennen die Grundregeln bei der Auswahl eines Messmittels. (Semester 3, 2)
+```

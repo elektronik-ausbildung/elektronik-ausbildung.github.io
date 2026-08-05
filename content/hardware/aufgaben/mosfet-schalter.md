@@ -50,7 +50,9 @@ Dokumentiere das Messprotokoll gemäss Richtlinien des Kurzentrums
 - Was hast du gut gemacht?
 - Was machst du beim nächsten Mal besser?
 
-## Referenzen zum Lehrplan
+```{admonition} Referenzen zum Lehrplan
+:class: references
+:collapsible: closed
 
 Die folgenden Leistungskriterien (LK) und Lernziele (LZ) aus dem Bildungsplan FutureMEM stehen in Bezug zu dieser Aufgabe.
 
@@ -89,3 +91,4 @@ Die folgenden Leistungskriterien (LK) und Lernziele (LZ) aus dem Bildungsplan Fu
   - **HK 9999 c.01** – Mikrocontroller-Programme entwickeln
     - **LK ET c1 16** – Sie setzen verschiedene digitale oder analoge Schnittstellen an beispielhaften Aufgaben ein. (BFS · Semester 6)
       - **LZ_11193** – Sie realisieren Funktionen mit Hilfe von Timern. (Semester 6)
+```

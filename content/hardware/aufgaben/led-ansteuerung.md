@@ -38,7 +38,9 @@ Achtung: Die LED darf nicht heiss werden. Zwischen den Versuchen mindestens eine
 3. Beobachte: Was passiert mit der Vorwärtsspannung, während die LED wärmer wird? Erkläre, warum dieser Effekt in der Praxis einer LED-Schaltung wichtig ist.
 4. Bestimme den Temperaturkoeffizienten numerisch: Miss U_F bei bekannter Temperatur (z. B. Raumtemperatur) und nach dem Erwärmen der LED. Berechne den Temperaturkoeffizienten in mV/K und vergleiche ihn mit dem Wert aus dem LED-Datenblatt.
 
-## Referenzen zum Lehrplan
+```{admonition} Referenzen zum Lehrplan
+:class: references
+:collapsible: closed
 
 Die folgenden Leistungskriterien (LK) und Lernziele (LZ) aus dem Bildungsplan FutureMEM stehen in Bezug zu dieser Aufgabe.
 
@@ -62,3 +64,4 @@ Die folgenden Leistungskriterien (LK) und Lernziele (LZ) aus dem Bildungsplan Fu
   - **HK 9999 c.01** – Mikrocontroller-Programme entwickeln
     - **LK ET c1 16** – Sie setzen verschiedene digitale oder analoge Schnittstellen an beispielhaften Aufgaben ein. (BFS · Semester 6)
       - **LZ_11193** – Sie realisieren Funktionen mit Hilfe von Timern. (Semester 6)
+```

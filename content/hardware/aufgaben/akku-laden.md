@@ -28,7 +28,9 @@ Baue ein einfaches Ladegerät für AA-NiMH-Akkus (z. B. für [Ikea Ladda](https:
 
 Baue die Schaltung auf einem Steckbrett auf. Achte darauf, dass es nicht zu komplex wird, du solltest für die Übung höchstens ein paar Stunden brauchen – wähle die Schaltung dementsprechend (Ladegeräte können auch sehr komplex sein).
 
-## Referenzen zum Lehrplan
+```{admonition} Referenzen zum Lehrplan
+:class: references
+:collapsible: closed
 
 Die folgenden Leistungskriterien (LK) und Lernziele (LZ) aus dem Bildungsplan FutureMEM stehen in Bezug zu dieser Aufgabe.
 
@@ -48,3 +50,4 @@ Die folgenden Leistungskriterien (LK) und Lernziele (LZ) aus dem Bildungsplan Fu
       - **LZ_9029** – Sie dimensionieren Grundschaltungen mit Dioden, LEDs, Optokopplern, Feldeffekttransistoren und Bipolartransistoren. (Semester 2)
       - **LZ_9032** – Sie erklären die Funktion von unterschiedlichen Stabilisierungsschaltungen für Spannung und Strom. (Semester 8)
       - **LZ_9033** – Sie unterscheiden verschiedene Arten von Spannungswandlerschaltungen. (Semester 8)
+```

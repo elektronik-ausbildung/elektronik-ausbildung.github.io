@@ -42,7 +42,9 @@ Baue die Schaltung auf einem Steckbrett auf.
 
 Dokumentiere die Schaltung, deine Berechnungen und den Aufbau in einem kurzen Bericht (PDF oder Markdown).
 
-## Referenzen zum Lehrplan
+```{admonition} Referenzen zum Lehrplan
+:class: references
+:collapsible: closed
 
 Die folgenden Leistungskriterien (LK) und Lernziele (LZ) aus dem Bildungsplan FutureMEM stehen in Bezug zu dieser Aufgabe.
 
@@ -71,3 +73,4 @@ Die folgenden Leistungskriterien (LK) und Lernziele (LZ) aus dem Bildungsplan Fu
       - **LZ_124** – Sie wenden Messgeräte zur Messung von Spannung, Strom und Widerstand an. (Semester 1)
       - **LZ_1948** – Sie führen Strom- und Spannungsmessungen in Stromkreisen durch. (Semester 1)
       - **LZ_1993** – Sie erklären den Einfluss des Innenwiderstandes. (Semester 1)
+```

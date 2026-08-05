@@ -28,7 +28,9 @@ Studiere das Datenblatt. Wie funktioniert der Phototransistor? Welches sind die 
 2. Berechne und dimensioniere die Bauteile
 3. Wähle Bauteile aus dem Schubladenstock und baue die Schaltung auf einem Steckbrett auf.
 
-## Referenzen zum Lehrplan
+```{admonition} Referenzen zum Lehrplan
+:class: references
+:collapsible: closed
 
 Die folgenden Leistungskriterien (LK) und Lernziele (LZ) aus dem Bildungsplan FutureMEM stehen in Bezug zu dieser Aufgabe.
 
@@ -52,3 +54,4 @@ Die folgenden Leistungskriterien (LK) und Lernziele (LZ) aus dem Bildungsplan Fu
     - **LK ET b4 04 (üK)** – Sie messen Schaltungen und achten darauf, deren ursprünglichen Funktion nicht zu beeinflussen. (üK · Semester 2)
       - **LZ_11220** – Sie führen mit geeigneten Messmittel die Messung durch. (Semester 2)
       - **LZ_11224** – Sie benennen Einflussfaktoren von Messmitteln auf das zu messende Bauteil. (Semester 2)
+```

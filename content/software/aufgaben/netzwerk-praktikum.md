@@ -171,7 +171,9 @@ Welche Netzwerkprotokolle werden von Uhren und Zeitservern bei Moser Baer verwen
 
 > Aufgabe: Verbinde dich per SSH mit einem DTS und stelle die Uhrenlinie auf 12 h
 
-## Referenzen zum Lehrplan
+```{admonition} Referenzen zum Lehrplan
+:class: references
+:collapsible: closed
 
 Die folgenden Leistungskriterien (LK) und Lernziele (LZ) aus dem Bildungsplan FutureMEM stehen in Bezug zu dieser Aufgabe.
 
@@ -203,3 +205,4 @@ Die folgenden Leistungskriterien (LK) und Lernziele (LZ) aus dem Bildungsplan Fu
   - **HK 9999 c.03** – intelligente Komponenten und Dienste in einem Netz oder einer Cloud einbinden
     - **LK ET c3 01** – Sie integrieren Geräte, Sensoren oder Aktoren in einem Netzwerk oder Bussystem und konfigurieren diese, um die Kommunikation zu ermöglichen. (BE · Semester 5, 6, 7, 8)
     - **LK ET c3 03** – Sie dokumentieren die Netz- oder Bustopologie zusammen mit den gemachten Konfigurationen in der Entwicklungsdokumentation. (BE · Semester 5, 6)
+```

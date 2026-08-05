@@ -18,7 +18,9 @@ Für jedes Programm der Toolchain beantworte folgende Fragen:
 - Was sind die wichtigsten Einstellungen, die man vornehmen muss?
 - Gib 2-3 Beispiele von Programmen/Software für jeden Schritt der Toolchain. Welches Programm wird in der Cube IDE verwendet?
 
-## Referenzen zum Lehrplan
+```{admonition} Referenzen zum Lehrplan
+:class: references
+:collapsible: closed
 
 Die folgenden Leistungskriterien (LK) und Lernziele (LZ) aus dem Bildungsplan FutureMEM stehen in Bezug zu dieser Aufgabe.
 
@@ -40,3 +42,4 @@ Die folgenden Leistungskriterien (LK) und Lernziele (LZ) aus dem Bildungsplan Fu
     - **LK ET c1 25** – Sie finden und beheben mit Hilfe der Entwicklungsumgebung Fehler in der Software. (üK · Semester 4)
       - **LZ_9782** – Sie setzen den Compiler zur Fehlersuche ein. (Semester 4)
       - **LZ_11249** – Sie erklären die Fehlermeldungen eines Compilers und kennen die Ursachen der Fehlermeldungen. (Semester 4)
+```

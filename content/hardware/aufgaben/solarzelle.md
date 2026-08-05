@@ -24,7 +24,9 @@ Solarzellen wandeln Licht direkt in elektrische Energie um. In dieser Übung bea
 4. Erkläre, wieso die Zelle im MPP und nicht bei I_SC oder U_OC betrieben wird.
 5. Dokumentiere Messung und Ergebnisse in einem Messbericht.
 
-## Referenzen zum Lehrplan
+```{admonition} Referenzen zum Lehrplan
+:class: references
+:collapsible: closed
 
 Die folgenden Leistungskriterien (LK) und Lernziele (LZ) aus dem Bildungsplan FutureMEM stehen in Bezug zu dieser Aufgabe.
 
@@ -49,3 +51,4 @@ Die folgenden Leistungskriterien (LK) und Lernziele (LZ) aus dem Bildungsplan Fu
       - **LZ_3862** – Sie berechnen die Umwandlung von Quellen (Strom- und Spannungsquellen). (Semester 1)
     - **LK ET b1 12** – Sie entnehmen aus technischen Datenblättern die relevanten Eigenschaften von Bauteilen. (üK · Semester 2, 3)
       - **LZ_9062** – Sie suchen aufgrund der Bauteilbezeichnung das vom Hersteller herausgegebene Datenblatt und können damit die grundsätzliche Funktion des Bauteils herleiten. (Semester 3, 2)
+```

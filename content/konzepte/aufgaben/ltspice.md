@@ -21,7 +21,9 @@ Dokumentiere deine Arbeit mit einem Bericht.
 
 6) Untersuche die Realität des Operationsverstärkers: Ab welcher Frequenz weicht die Verstärkung von −100 ab? Wie wirkt sich die begrenzte Bandbreite des OpAmp auf das Bode-Diagramm aus?
 
-## Referenzen zum Lehrplan
+```{admonition} Referenzen zum Lehrplan
+:class: references
+:collapsible: closed
 
 Die folgenden Leistungskriterien (LK) und Lernziele (LZ) aus dem Bildungsplan FutureMEM stehen in Bezug zu dieser Aufgabe.
 
@@ -45,3 +47,4 @@ Die folgenden Leistungskriterien (LK) und Lernziele (LZ) aus dem Bildungsplan Fu
       - **LZ_4024** – Sie berechnen den Amplituden- und Phasengang an passiven Filtern (Hoch- und Tiefpass) und stellen diese im Bodediagramm dar. (Semester 4)
       - **LZ_4136** – Sie ordnen Hoch- und Tiefpassfilter nach ihrer Ordnungszahl ein und zeichnen entsprechende idealisierte Amplitudengänge auf. (Semester 4)
       - **LZ_4008** – Sie beschreiben den Amplitudengang an einem RC-Hochpass und RC-Tiefpass. (Semester 4)
+```

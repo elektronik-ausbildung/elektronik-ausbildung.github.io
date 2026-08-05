@@ -44,7 +44,9 @@ Führe die Messung aus und schreibe ein Messprotokoll.
 
   > Erkläre detailliert, schreibe mehr als einen Satz pro Frage. Insgesamt (für alle Fragen) solltest du 1-2 Seiten schreiben. Versuche zuerst die Fragen aus dem Kopf zu beantworten, wenn du nicht weiterweissst, recherchiere im Internet (oder in den Unterlagen der Schule).
 
-## Referenzen zum Lehrplan
+```{admonition} Referenzen zum Lehrplan
+:class: references
+:collapsible: closed
 
 Die folgenden Leistungskriterien (LK) und Lernziele (LZ) aus dem Bildungsplan FutureMEM stehen in Bezug zu dieser Aufgabe.
 
@@ -77,3 +79,4 @@ Die folgenden Leistungskriterien (LK) und Lernziele (LZ) aus dem Bildungsplan Fu
       - **LZ_11179** – Sie erstellen ein Protokoll, indem sie die Vorgehensweise detailliert beschreiben. (Semester 3)
     - **LK ET b4 14** – Sie erarbeiten den Inhalt und die Struktur eines Messprotokolls. (üK · Semester 2)
       - **LZ_9565** – Sie erstellen Prüfprotokolle auf Grundlage bestehender Daten. (Semester 2)
+```

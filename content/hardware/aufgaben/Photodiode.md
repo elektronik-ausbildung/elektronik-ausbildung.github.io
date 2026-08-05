@@ -37,7 +37,9 @@ Entwickle eine Schaltung, welche die Helligkeit einer LED dem Umgebungslicht anp
 4. Kannst du die Schaltung so anpassen, dass anstelle der Fotodiode eine LED als Lichtdetektor verwendet werden kann?
 5. Miss und vergleiche den Rückwärtsstrom von LED und Photodiode bei unterschiedlichen Helligkeiten. Stelle die beiden Messungen in einem gemeinsamen Diagramm dar und dokumentiere die Ergebnisse.
 
-## Referenzen zum Lehrplan
+```{admonition} Referenzen zum Lehrplan
+:class: references
+:collapsible: closed
 
 Die folgenden Leistungskriterien (LK) und Lernziele (LZ) aus dem Bildungsplan FutureMEM stehen in Bezug zu dieser Aufgabe.
 
@@ -65,3 +67,4 @@ Die folgenden Leistungskriterien (LK) und Lernziele (LZ) aus dem Bildungsplan Fu
     - **LK ET b4 04 (üK)** – Sie messen Schaltungen und achten darauf, deren ursprünglichen Funktion nicht zu beeinflussen. (üK · Semester 2)
       - **LZ_11220** – Sie führen mit geeigneten Messmittel die Messung durch. (Semester 2)
       - **LZ_11224** – Sie benennen Einflussfaktoren von Messmitteln auf das zu messende Bauteil. (Semester 2)
+```

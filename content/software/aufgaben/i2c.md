@@ -16,7 +16,9 @@ In dieser Aufgabe nimmst du das I2C-Interface des STM32 DevKits in Betrieb und l
 5) Fehlersuche: Programmiere absichtlich eine falsche Slave-Adresse (z. B. um einen Bit verschoben) und zeichne die Kommunikation erneut auf. Interpretiere das NACK im Logic Analyzer: Woran erkennst du, dass die Kommunikation scheitert, und wie verhält sich der Master?
 6) Dokumentiere diese Aufgabe in einem kurzen Bericht.
 
-## Referenzen zum Lehrplan
+```{admonition} Referenzen zum Lehrplan
+:class: references
+:collapsible: closed
 
 Die folgenden Leistungskriterien (LK) und Lernziele (LZ) aus dem Bildungsplan FutureMEM stehen in Bezug zu dieser Aufgabe.
 
@@ -39,3 +41,4 @@ Die folgenden Leistungskriterien (LK) und Lernziele (LZ) aus dem Bildungsplan Fu
     - **LK ET c1 28** – Sie kommunizieren über im Mikrocontroller integrierten Schnittstellen mit externer Hardware. (üK · Semester 4)
       - **LZ_9573** – Sie konsultieren die Dokumentation des Mikrocontrollers und der Peripheriegeräte, um technische Daten zu identifizieren. (Semester 4)
       - **LZ_11255** – Sie nutzen Bibliotheken zur Ansteuerung einer externen Hardware. (Semester 4)
+```

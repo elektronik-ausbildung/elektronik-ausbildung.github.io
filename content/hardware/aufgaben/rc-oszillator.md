@@ -26,7 +26,9 @@ Du entwickelst die Schaltungen selbst. Versuche dabei, eine Lösung zu finden. W
     Zeichne zuerst ein Blockdiagramm der Teilfunktionen (Oszillator, Timer, Zähler, Taster) und wie sie zusammenhängen, bevor du die Schaltung entwirfst.
     Dokumentiere die Änderungen an der Schaltung, die Berechnungen und überprüfe die Ergebnisse mit Messungen. Im ausgeschalteten Zustand darf die Schaltung nicht mehr als 10 µA Strom verbrauchen. Hinweis: Wenn du nicht weiterkommst, lass dich von der Ein/Aus-Automatik des elektrischen Würfels inspirieren ([Elektrischer Würfel auf Github](https://github.com/elektronik-ausbildung/elektronischer-wuerfel)).
 
-## Referenzen zum Lehrplan
+```{admonition} Referenzen zum Lehrplan
+:class: references
+:collapsible: closed
 
 Die folgenden Leistungskriterien (LK) und Lernziele (LZ) aus dem Bildungsplan FutureMEM stehen in Bezug zu dieser Aufgabe.
 
@@ -55,3 +57,4 @@ Die folgenden Leistungskriterien (LK) und Lernziele (LZ) aus dem Bildungsplan Fu
       - **LZ_1948** – Sie führen Strom- und Spannungsmessungen in Stromkreisen durch. (Semester 1)
       - **LZ_1951** – Sie erläutern die Eigenschaften von digitalen und analogen Messgeräten. (Semester 1)
       - **LZ_1993** – Sie erklären den Einfluss des Innenwiderstandes. (Semester 1)
+```

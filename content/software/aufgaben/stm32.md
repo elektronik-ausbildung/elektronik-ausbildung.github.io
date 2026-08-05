@@ -33,7 +33,9 @@ In dieser Übung arbeitest du dich Schritt für Schritt in die Entwicklung mit d
 2. Aktiviere den Timer-Interrupt und programmiere ihn so, dass er eine LED toggelt.
 3. Ändere das Programm so, dass du mit einem Potentiometer die Timer-Zeit einstellen kannst.
 
-## Referenzen zum Lehrplan
+```{admonition} Referenzen zum Lehrplan
+:class: references
+:collapsible: closed
 
 Die folgenden Leistungskriterien (LK) und Lernziele (LZ) aus dem Bildungsplan FutureMEM stehen in Bezug zu dieser Aufgabe.
 
@@ -82,3 +84,4 @@ Die folgenden Leistungskriterien (LK) und Lernziele (LZ) aus dem Bildungsplan Fu
       - **LZ_9571** – Sie verwenden Interrupts. (Semester 4)
       - **LZ_9573** – Sie konsultieren die Dokumentation des Mikrocontrollers und der Peripheriegeräte, um technische Daten zu identifizieren. (Semester 4)
       - **LZ_11256** – Sie lösen eine Problemstellung mit und ohne Interrupts. (Semester 4)
+```

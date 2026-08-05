@@ -104,7 +104,9 @@ void main () {
 
 6) Beantworte schriftlich: Warum unterscheidet man zwischen Deklaration und Definition?
 
-## Referenzen zum Lehrplan
+```{admonition} Referenzen zum Lehrplan
+:class: references
+:collapsible: closed
 
 Die folgenden Leistungskriterien (LK) und Lernziele (LZ) aus dem Bildungsplan FutureMEM stehen in Bezug zu dieser Aufgabe.
 
@@ -122,3 +124,4 @@ Die folgenden Leistungskriterien (LK) und Lernziele (LZ) aus dem Bildungsplan Fu
     - **LK ET c1 17** – Sie erklären die Funktion von vorgegebenen Code Sequenzen. (BFS · Semester 1, 4)
       - **LZ_11205** – Sie stellen gegebenen Code strukturiert grafisch dar. (Semester 1)
       - **LZ_11206** – Sie erklären die Funktion von vorgegebenem Code und werten ihn aus. (Semester 1)
+```

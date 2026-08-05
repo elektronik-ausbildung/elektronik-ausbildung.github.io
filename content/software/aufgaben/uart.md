@@ -21,7 +21,9 @@ Besorge dir einen USB-Serial-Wandler. Zeichne das Signal mit einem Logic Analyze
 - Die ausgedruckte Sequenz mit markierten Start-, Stopp- und Datenbits.
 - Eine kurze Erklärung, wie du die Zeichen dekodiert hast.
 
-## Referenzen zum Lehrplan
+```{admonition} Referenzen zum Lehrplan
+:class: references
+:collapsible: closed
 
 Die folgenden Leistungskriterien (LK) und Lernziele (LZ) aus dem Bildungsplan FutureMEM stehen in Bezug zu dieser Aufgabe.
 
@@ -31,3 +33,4 @@ Die folgenden Leistungskriterien (LK) und Lernziele (LZ) aus dem Bildungsplan Fu
       - **LZ_11213** – Sie zählen Typen von Schnittstellen in Mikrocontrollern auf und kennen das Einsatzgebiet. (Semester 2)
     - **LK ET c1 16** – Sie setzen verschiedene digitale oder analoge Schnittstellen an beispielhaften Aufgaben ein. (BFS · Semester 6)
       - **LZ_11192** – Sie setzen unterschiedliche serielle Schnittstellen zur Ansteuerung von externer Hardware ein. (Semester 6)
+```

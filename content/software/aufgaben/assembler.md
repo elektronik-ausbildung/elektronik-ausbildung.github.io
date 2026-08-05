@@ -15,7 +15,9 @@ Verwende dein PIC Board 7 aus dem ÜK (oder einen beliebigen anderen PIC-Mikroco
 4) Zusatz: Kehre die Laufrichtung des Lauflichtes um, wenn ein Schalter gedrückt wird.
 5) Dokumentiere das Lauflicht-Programm in einem kurzen Bericht. Erstelle eine Liste mit allen verwendeten Assembler-Befehlen und erkläre deren Funktion.
 
-## Referenzen zum Lehrplan
+```{admonition} Referenzen zum Lehrplan
+:class: references
+:collapsible: closed
 
 Die folgenden Leistungskriterien (LK) und Lernziele (LZ) aus dem Bildungsplan FutureMEM stehen in Bezug zu dieser Aufgabe.
 
@@ -46,3 +48,4 @@ Die folgenden Leistungskriterien (LK) und Lernziele (LZ) aus dem Bildungsplan Fu
       - **LZ_4276** – Sie schreiben einfache Programme (Standardanweisungen). (Semester 4)
       - **LZ_11203** – Sie schreiben verständliche und nachvollziehbare Kommentare im Code. (Semester 4)
       - **LZ_11204** – Sie nutzen die unterstützenden Funktionen einer Entwicklungsumgebung. (Semester 4)
+```

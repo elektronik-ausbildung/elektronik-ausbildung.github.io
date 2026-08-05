@@ -18,7 +18,9 @@ Nimm einen der [elektrischen Würfel](https://github.com/elektronik-ausbildung/e
 
 Erstelle ein Dokument (PC oder von Hand), das erklärt, wie deine Schaltung funktioniert. Zeige deine Überlegungen und Berechnungen (z. B. Widerstände, Wahrheitstabellen usw.).
 
-## Referenzen zum Lehrplan
+```{admonition} Referenzen zum Lehrplan
+:class: references
+:collapsible: closed
 
 Die folgenden Leistungskriterien (LK) und Lernziele (LZ) aus dem Bildungsplan FutureMEM stehen in Bezug zu dieser Aufgabe.
 
@@ -53,3 +55,4 @@ Die folgenden Leistungskriterien (LK) und Lernziele (LZ) aus dem Bildungsplan Fu
     - **LK ET b1 09** – Sie setzen für das Schema nach geltenden Normen die richtigen Symbole und Bezeichner ein. (BFS · Semester 2)
       - **LZ_9078** – Sie wenden die korrekten Kennbuchstaben der Betriebsmittel/Bauteile gemäss aktueller Norm an. (Semester 2)
       - **LZ_9085** – Sie achten darauf, dass bei allen Bauteilen der Wert, die Toleranz und gegebenenfalls die genaue Typenbezeichnung ersichtlich ist. (Semester 2)
+```
