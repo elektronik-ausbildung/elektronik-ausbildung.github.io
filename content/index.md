@@ -1,8 +1,8 @@
 # Elektronik Ausbildung
 
-Diese Dokumentation begleitet die Ausbildung zur **Elektronikerin / zum Elektroniker EFZ** nach der neuen Berufsreform [FutureMEM](https://skills.futuremem.swiss/de/). Die Inhalte sind aus der Elektronikerausbildung der Moser-Baer AG in Sumiswald entstanden, ist nun aber Open Source und offen für Beiträge von allen. Das Projekt ist auf [Github unter elektronik-ausbildung](https://github.com/elektronik-ausbildung/elektronik-ausbildung.github.io) verfügbar. Bei Fragen oder Anmerkungen gerne auf Github ein Issue erfassen oder per Mail unter c.zaugg (at) mobatime.com melden. Auch wer eine STM32 Moba Devkit oder einen der elektrischen Würfel erhalten möchte, darf sich melden.
+Diese Dokumentation begleitet die Ausbildung zur **Elektronikerin / zum Elektroniker EFZ** nach der neuen Berufsreform [FutureMEM](https://skills.futuremem.swiss/de/). 
 
-Zurzeit sind vor allem Praktika und Übungsaufgaben aufgeschaltet. Es ist mir zurzeit nicht klar in welcher Reihenfolge oder Gruppierung die Inhalte vermittelt werden, deshalb werden diese im Verlauf der Ausbildung hinzu gefügt.
+Zurzeit sind vor allem Praktika und Übungsaufgaben aufgeschaltet. Je nachdem in welcher Reihenfolge und Ordnung die Inhalte in der Berufsschule vermittelt vermittelt werden, wird diese Seite im Verlauf der Ausbildung ergänzt.
 
 Die Inhalte orientieren sich an den Handlungskompetenzbereichen des neuen Bildungsplans (2026):
 
@@ -35,3 +35,7 @@ Software <software/index.md>
 Fertigung <fertigung/index.md>
 Konzepte <konzepte/index.md>
 ```
+
+## Über dieses Projekt
+
+Die Inhalte sind aus der Elektronikerausbildung der Moser-Baer AG in Sumiswald entstanden, ist nun aber Open Source und offen für Beiträge von allen. Das Projekt ist auf [Github unter elektronik-ausbildung](https://github.com/elektronik-ausbildung/elektronik-ausbildung.github.io) verfügbar. Bei Fragen oder Anmerkungen gerne auf Github ein Issue erfassen oder per Mail unter c.zaugg@mobatime.com melden. Auch wer ein [STM32 Moba Devkit](https://github.com/elektronik-ausbildung/STM32-Moba-DevKit) oder einen der [elektrischen Würfel](https://github.com/elektronik-ausbildung/elektronischer-wuerfel) erhalten möchte, darf sich melden.
