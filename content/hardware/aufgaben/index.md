@@ -16,4 +16,5 @@ LED-Ansteuerung <led-ansteuerung.md>
 Linearregler <linearregler.md>
 High-Side-Schalter <high-side-switching.md>
 Photodiode <photodiode.md>
+Audioverstärker <audio-verstaerker.md>
 ```
