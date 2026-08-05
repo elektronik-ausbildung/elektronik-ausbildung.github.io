@@ -78,6 +78,12 @@ PM
 PR
   Produktionsmechaniker/in EFZ
 
+SMD
+  Surface-Mounted Device (oberflächenmontierte Bauteile)
+
+THT
+  Through-Hole Technology (Bestückung von Bauteilen mit Drahtbeinen)
+
 ÜK
   Überbetrieblicher Kurs (Lernort)
 ```

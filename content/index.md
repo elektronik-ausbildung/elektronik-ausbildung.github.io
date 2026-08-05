@@ -1,8 +1,19 @@
 # Elektronik Ausbildung
 
-Diese Dokumentation begleitet die Ausbildung zur **Elektronikerin / zum Elektroniker EFZ** nach der neuen Berufsreform [FutureMEM](https://skills.futuremem.swiss/de/). Die Inhalte sind aus der Elektronikerausbildung der Moser-Baer AG in Sumiswald entstanden, ist nun aber Open Source und offen für Beiträge von allen. Das Projekt ist auf [Github unter elektronik-ausbildung](https://github.com/elektronik-ausbildung/elektronik-ausbildung.github.io) verfügbar. Bei Fragen oder Anmerkungen gerne auf Github ein Issue erfassen oder per Mail unter c.zaugg (at) mobatime.com melden. Auch wer eine STM32 Moba Devkit oder einen der elektrischen Würfel erhalten möchte, darf sich melden.
+```{toctree}
+:caption: Fachbereiche
+:maxdepth: 1
+:hidden:
 
-Zurzeit sind vor allem Praktika und Übungsaufgaben aufgeschaltet. Es ist mir zurzeit nicht klar in welcher Reihenfolge oder Gruppierung die Inhalte vermittelt werden, deshalb werden diese im Verlauf der Ausbildung hinzu gefügt.
+Hardware <hardware/index.md>
+Software <software/index.md>
+Fertigung <fertigung/index.md>
+Konzepte <konzepte/index.md>
+```
+
+Diese Dokumentation begleitet die Ausbildung zur **Elektronikerin / zum Elektroniker EFZ** nach der neuen Berufsreform [FutureMEM](https://skills.futuremem.swiss/de/). 
+
+Zurzeit sind vor allem Praktika und Übungsaufgaben aufgeschaltet. Je nachdem in welcher Reihenfolge und Ordnung die Inhalte in der Berufsschule vermittelt vermittelt werden, wird diese Seite im Verlauf der Ausbildung ergänzt.
 
 Die Inhalte orientieren sich an den Handlungskompetenzbereichen des neuen Bildungsplans (2026):
 
@@ -13,7 +24,7 @@ Die Inhalte orientieren sich an den Handlungskompetenzbereichen des neuen Bildun
 
 Die Berufsschule GIBB Bern verwendet die Abkürzungen FEH (Hardware), FESW (Software), FEIK (Konzepte) und FTBV (Fertigung).
 
-→ [Digitale Auflistung der Lernziele](https://elektronik-ausbildung.github.io/lehrplan/)  
+→ [Durchsubare Auflistung der Lernziele](https://elektronik-ausbildung.github.io/lehrplan/)  
 → [Glossar mit allen Abkürzungen](glossar.md)
 
 ## Aufbau des Bildungsplans (FutureMEM)
@@ -25,13 +36,6 @@ Der Bildungsplan der MEM-Berufe ist hierarchisch aufgebaut:
 - **Leistungskriterien (LK)** – Für jeden Lernort (Betrieb, Berufsfachschule, überbetrieblicher Kurs) werden die Handlungskompetenzen konkretisiert und in Leistungskriterien aufgeteilt. Viele Leistungskriterien sind für ein bestimmtes Semester vorgesehen, sie können aber auch auf mehrere Semester verteilt sein.
 - **Lernziele (LZ)** – Die Leistungskriterien werden für Berufsschule und überbetriebliche Kurse weiter in Lernziele aufgeteilt. Diese sind jeweils einem Semester zugeteilt. ACHTUNG: Manche Lernziele sind mehreren Leistungskriterien zugeteilt und tauchen deshalb mehrmals auf.
 
-```{toctree}
-:caption: Fachbereiche
-:maxdepth: 1
-:hidden:
+## Über dieses Projekt
 
-Hardware <hardware/index.md>
-Software <software/index.md>
-Fertigung <fertigung/index.md>
-Konzepte <konzepte/index.md>
-```
+Die Inhalte sind aus der Elektronikerausbildung der Moser-Baer AG in Sumiswald entstanden, ist nun aber Open Source und offen für Beiträge von allen. Das Projekt ist auf [Github unter elektronik-ausbildung](https://github.com/elektronik-ausbildung/elektronik-ausbildung.github.io) verfügbar. Bei Fragen oder Anmerkungen gerne auf Github ein Issue erfassen oder per Mail unter c.zaugg@mobatime.com melden. Auch wer ein [STM32 Moba Devkit](https://github.com/elektronik-ausbildung/STM32-Moba-DevKit) oder einen der [elektrischen Würfel](https://github.com/elektronik-ausbildung/elektronischer-wuerfel) erhalten möchte, darf sich melden.
